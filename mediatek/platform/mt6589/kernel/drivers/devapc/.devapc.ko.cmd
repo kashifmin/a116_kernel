@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6589/kernel/drivers/devapc/devapc.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /home/ubuntu/projects/GPL/merge_9201/kernel/scripts/module-common.lds --build-id  -o mediatek/platform/mt6589/kernel/drivers/devapc/devapc.ko mediatek/platform/mt6589/kernel/drivers/devapc/devapc.o mediatek/platform/mt6589/kernel/drivers/devapc/devapc.mod.o

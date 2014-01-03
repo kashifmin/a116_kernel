@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/combo/common_mt6628/mtk_wmt_wifi.o := arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/kernel/drivers/combo/common_mt6628/mtk_wmt_wifi.o mediatek/kernel/drivers/combo/common_mt6628/linux/pub/wmt_chrdev_wifi.o 

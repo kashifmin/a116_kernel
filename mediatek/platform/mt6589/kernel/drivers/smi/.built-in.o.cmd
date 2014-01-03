@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6589/kernel/drivers/smi/built-in.o :=  arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/platform/mt6589/kernel/drivers/smi/built-in.o mediatek/platform/mt6589/kernel/drivers/smi/mau.o mediatek/platform/mt6589/kernel/drivers/smi/spc.o mediatek/platform/mt6589/kernel/drivers/smi/smi_debug.o mediatek/platform/mt6589/kernel/drivers/smi/smi_common.o 

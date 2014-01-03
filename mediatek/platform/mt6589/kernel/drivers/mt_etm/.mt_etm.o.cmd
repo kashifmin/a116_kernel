@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6589/kernel/drivers/mt_etm/mt_etm.o := arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/platform/mt6589/kernel/drivers/mt_etm/mt_etm.o mediatek/platform/mt6589/kernel/drivers/mt_etm/src/mt_etm.o mediatek/platform/mt6589/kernel/drivers/mt_etm/src/utils.o 

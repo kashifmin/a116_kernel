@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/combo/common_mt6628/mtk_stp_uart.o := arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/kernel/drivers/combo/common_mt6628/mtk_stp_uart.o mediatek/kernel/drivers/combo/common_mt6628/linux/pri/stp_uart.o 

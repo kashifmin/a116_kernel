@@ -1,0 +1,6 @@
+kernel/mediatek/kernel/drivers/combo/common_mt6628/mtk_stp_wmt.ko
+kernel/mediatek/kernel/drivers/combo/common_mt6628/mtk_stp_uart.ko
+kernel/mediatek/kernel/drivers/combo/common_mt6628/mtk_hif_sdio.ko
+kernel/mediatek/kernel/drivers/combo/common_mt6628/mtk_stp_bt.ko
+kernel/mediatek/kernel/drivers/combo/common_mt6628/mtk_stp_gps.ko
+kernel/mediatek/kernel/drivers/combo/common_mt6628/mtk_wmt_wifi.ko

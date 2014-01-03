@@ -1,0 +1,7 @@
+kernel/mediatek/platform/mt6589/kernel/drivers/gpu/pvr/pvrsrvkm.ko
+kernel/mediatek/platform/mt6589/kernel/drivers/gpu/pvr/mtklfb.ko
+kernel/mediatek/platform/mt6589/kernel/drivers/dual_ccci/ccci_plat.ko
+kernel/mediatek/platform/mt6589/kernel/drivers/videocodec/vcodec_kernel_driver.ko
+kernel/mediatek/platform/mt6589/kernel/drivers/devinfo/devinfo.ko
+kernel/mediatek/platform/mt6589/kernel/drivers/masp/sec.ko
+kernel/mediatek/platform/mt6589/kernel/drivers/devapc/devapc.ko

@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6589/kernel/drivers/gpu/pvr/built-in.o :=  rm -f mediatek/platform/mt6589/kernel/drivers/gpu/pvr/built-in.o; arm-linux-androideabi-ar rcsD mediatek/platform/mt6589/kernel/drivers/gpu/pvr/built-in.o

@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/fmradio/private/mtk_fm_priv.o := arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/kernel/drivers/fmradio/private/mtk_fm_priv.o mediatek/kernel/drivers/fmradio/private/src/mt6628/mt6628_fm_private.o 

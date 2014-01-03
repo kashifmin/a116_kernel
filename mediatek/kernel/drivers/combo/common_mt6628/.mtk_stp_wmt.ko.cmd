@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/combo/common_mt6628/mtk_stp_wmt.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /home/ubuntu/projects/GPL/merge_9201/kernel/scripts/module-common.lds --build-id  -o mediatek/kernel/drivers/combo/common_mt6628/mtk_stp_wmt.ko mediatek/kernel/drivers/combo/common_mt6628/mtk_stp_wmt.o mediatek/kernel/drivers/combo/common_mt6628/mtk_stp_wmt.mod.o

@@ -1,0 +1,1 @@
+cmd_mediatek/platform/mt6589/kernel/drivers/gdma/built-in.o :=  arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/platform/mt6589/kernel/drivers/gdma/built-in.o mediatek/platform/mt6589/kernel/drivers/gdma/gdma_driver.o mediatek/platform/mt6589/kernel/drivers/gdma/gfmt_driver.o 

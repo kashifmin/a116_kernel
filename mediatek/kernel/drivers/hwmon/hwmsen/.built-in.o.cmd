@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/hwmon/hwmsen/built-in.o :=  arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/kernel/drivers/hwmon/hwmsen/built-in.o mediatek/kernel/drivers/hwmon/hwmsen/hwmsen_helper.o mediatek/kernel/drivers/hwmon/hwmsen/hwmsen_dev.o 

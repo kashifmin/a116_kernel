@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/mtprof/mtprof.o := arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/kernel/drivers/mtprof/mtprof.o mediatek/kernel/drivers/mtprof/prof_ctl.o mediatek/kernel/drivers/mtprof/prof_main.o 

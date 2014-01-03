@@ -1,0 +1,2 @@
+kernel/mediatek/kernel/drivers/fmradio/mtk_fm_drv.ko
+kernel/mediatek/kernel/drivers/fmradio/private/mtk_fm_priv.ko
